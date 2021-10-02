@@ -15,9 +15,4 @@
     
 ![Snake animation](https://github.com/criisfalcon/criisfalcon/blob/output/github-contribution-grid-snake.svg)
      
-  ## Total de Visitas no Perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/criisfalcon/count.svg" />
- </p>
-
-</p>
+ 
