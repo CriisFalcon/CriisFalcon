@@ -12,5 +12,12 @@
 </div>
       <a href = "mailto:cristianefalcon@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
       <a href="https://instagram.com/cristianefalcon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      
+    
 ![Snake animation](https://github.com/criisfalcon/criisfalcon/blob/output/github-contribution-grid-snake.svg)
+     
+  ## Total de Visitas no Perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/criisfalcon/count.svg" />
+ </p>
+
+</p>
