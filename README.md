@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <div align="right">
-<img src="https://media.giphy.com/media/Gqr8HnO9U6CGbvcL0b/giphy.gif?cid=790b76118a39f41c1622c33e00f990e3374609b32505037b&rid=giphy.gif&ct=g" width="170px" />
+<img src="https://media.giphy.com/media/JYl3bmi56RbwgIFfqE/giphy.gif" width="170px" />
 </div>
       <a href = "mailto:cristianefalcon@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
       <a href="https://instagram.com/cristianefalcon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
